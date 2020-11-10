@@ -1,5 +1,5 @@
 ---
-layout 
+layout: default
 ---
 
 # BKL Website
