@@ -12,3 +12,6 @@ install the dependencies with bundler by running:
 
 make sure your Gemfile contains the line:
 'gem "jekyll"'
+=======
+Click here to get started on web-dev with Just the Docs easily accessible Jekyll-based theme.
+https://pmarsceill.github.io/just-the-docs/
